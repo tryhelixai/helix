@@ -34,6 +34,7 @@ require (
 	github.com/oklog/ulid/v2 v2.1.0
 	github.com/olekukonko/tablewriter v0.0.6-0.20230925090304-df64c4bbad77
 	github.com/rs/zerolog v1.31.0
+	github.com/slack-go/slack v0.12.2
 	github.com/sourcegraph/conc v0.3.0
 	github.com/spf13/cobra v1.8.1
 	github.com/stripe/stripe-go/v76 v76.8.0
